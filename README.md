@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sevgi Koçak</h3>
+<h3>Hi 👋, I'm Sevgi Koçak</h3>
 🌱 I’m currently learning Python.
 
 📫 How to reach me **sevgi.kocak.09@gmail.com**
