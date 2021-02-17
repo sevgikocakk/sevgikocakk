@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Sevgi Koçak</h3>
-🌱 I’m currently learning Python and C#.
+🌱 I’m currently learning C#.
 
 📫 How to reach me **sevgi.kocak.09@gmail.com**
 
